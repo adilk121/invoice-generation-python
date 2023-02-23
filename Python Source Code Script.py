@@ -5,6 +5,7 @@ import mysql.connector
 from math import floor, ceil
 
 #Establishing connection
+#ok fine
 connect = mysql.connector.connect(host = 'localhost', user = 'root', passwd = '', database = 'pythonazeem')
 cursor = connect.cursor() # Cursor Command is used to Connect with database and to fetch the information from database of mysql
 
