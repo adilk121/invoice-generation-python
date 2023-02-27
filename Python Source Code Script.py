@@ -3,7 +3,7 @@
 #Importing modules
 import mysql.connector
 from math import floor, ceil
-
+#all importing files
 #Establishing connection
 #ok fine
 connect = mysql.connector.connect(host = 'localhost', user = 'root', passwd = '', database = 'pythonazeem')
