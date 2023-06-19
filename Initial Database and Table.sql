@@ -6,4 +6,4 @@ CREATE TABLE invoices_list(
   ADDRESS varchar(24),
   DATE date,
   INVOICE_TOTAL float
-  ); 
+  );
